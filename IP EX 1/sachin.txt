@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<h1><center>SACHIN TENDULKAR</center></h1>
+</head>
+<body background="C:\Users\kanna\Downloads\photo-1601979689063-cb474664e70b.jfif">
+<center>
+<img src="C:\Users\kanna\OneDrive\Pictures\sachin.png" width="350" height="350" alt="image not available"usermap=#workmap>
+<mapname=workmap>
+<h2 style="text-align: left"> ACHIEVEMENTS: </h2>
+<u1 style="text-align:left;font family:roman;font size=50px">
+<li>The first person to score a double century.</li>
+<li>Sachin holds the record for the most number of 150+ scores in Test cricket.</li>
+<li>Sachin received India’s highest sporting honour The Khel Ratna award in 1997.</li>
+<li>He was the first male player to score a double hundred in ODIS.</li>
+<li>Sachin has been awarded the Bharat Ratna.</li>
+<li>Sachin was also awarded Arjuna Award for his great achievements in cricket.</li>
+</U1>
+</p>
+</html>
+</body>
